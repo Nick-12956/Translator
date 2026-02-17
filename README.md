@@ -1,2 +1,4 @@
 # Translator
-This is first mini project in C++
+This is a program which converts-  
+
+any Text <=> Number-only format
